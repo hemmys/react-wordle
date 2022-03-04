@@ -46,7 +46,7 @@ export const VALID_GUESSES = [
   'death',
   'debug',
   'decay',
-  'decoy'
+  'decoy',
   'delay',
   'draft',
   'drift',
