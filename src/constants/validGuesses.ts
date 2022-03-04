@@ -30,7 +30,6 @@ export const VALID_GUESSES = [
   'burst',
   'caged',
   'chaos',
-  'charge',
   'cheap',
   'chill',
   'cloud',
@@ -47,6 +46,7 @@ export const VALID_GUESSES = [
   'death',
   'debug',
   'decay',
+  'decoy'
   'delay',
   'draft',
   'drift',
@@ -132,6 +132,7 @@ export const VALID_GUESSES = [
   'reyna',
   'rifle',
   'robot',
+  'ropes',
   'round',
   'salty',
   'scale',
@@ -174,7 +175,6 @@ export const VALID_GUESSES = [
   'start',
   'stats',
   'strat',
-  'strike',
   'surge',
   'swarm',
   'swift',
@@ -196,5 +196,6 @@ export const VALID_GUESSES = [
   'trust',
   'uhaul',
   'viper',
+  'water',
   'world',
 ]
