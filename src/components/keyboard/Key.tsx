@@ -45,7 +45,7 @@ export const Key = ({
   const styles = {
     transitionDelay: isRevealing ? `${keyDelayMs}ms` : 'unset',
     width: `${width}px`,
-    height: '58px',
+    height: '120px',
   }
 
   const handleClick: React.MouseEventHandler<HTMLButtonElement> = (event) => {
