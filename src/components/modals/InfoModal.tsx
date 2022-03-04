@@ -64,7 +64,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
-          check out the code here -{' '}
+          check out the code here {' '}
         </a>{' '}
         <a
           href="https://twitter.com/hemmessy"
