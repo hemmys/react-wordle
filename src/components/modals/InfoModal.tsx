@@ -66,6 +66,12 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         >
           check out the code here
         </a>{' '}
+        <a
+          href="https://twitter.com/hemmessy"
+          className="modified-hemmys"
+        >
+          Modified by Hemmys
+        </a>{' '}
       </p>
     </BaseModal>
   )
