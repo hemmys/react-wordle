@@ -1,4 +1,5 @@
 export const WORDS = [
+  'above',
   'aggro',
   'agile',
   'ahead',
@@ -12,6 +13,7 @@ export const WORDS = [
   'beams',
   'beast',
   'begin',
+  'below',
   'bench',
   'blade',
   'blank',
@@ -34,6 +36,7 @@ export const WORDS = [
   'chill',
   'cloud',
   'coach',
+  'comms',
   'cosmo',
   'count',
   'crash',
