@@ -61,7 +61,7 @@ export const WORDS = [
   'entry',
   'equal',
   'equip',
-  'exit',
+  'exits',
   'event',
   'field',
   'fight',
