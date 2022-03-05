@@ -78,6 +78,7 @@ export const WORDS = [
   'ghana',
   'ghost',
   'green',
+  'grief',
   'grind',
   'guard',
   'guide',
