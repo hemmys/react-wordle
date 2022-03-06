@@ -37,6 +37,7 @@ export const VALID_GUESSES = [
   'cheap',
   'chill',
   'chute',
+  'close',
   'cloud',
   'coach',
   'comms',
