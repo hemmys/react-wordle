@@ -37,6 +37,7 @@ export const WORDS = [
   'cheap',
   'chill',
   'chute',
+  'close',
   'cloud',
   'coach',
   'comms',
