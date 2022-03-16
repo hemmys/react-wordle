@@ -145,6 +145,8 @@ export const WORDS = [
   'round',
   'green',
   'react',
+  'clear',
+  'party',
   'phase',
   'water',
   'chute',
