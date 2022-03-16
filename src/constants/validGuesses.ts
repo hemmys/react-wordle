@@ -1,4 +1,6 @@
 export const VALID_GUESSES = [
+  'clear',
+  'party',
   'crate',
   'agent',
   'notes',
