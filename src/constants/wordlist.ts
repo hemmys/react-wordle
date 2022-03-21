@@ -95,6 +95,7 @@ export const WORDS = [
   'sound',
   'short',
   'kills',
+  'scope',
   'ghost',
   'bench',
   'traps',
