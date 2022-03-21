@@ -34,6 +34,7 @@ export const WORDS = [
   'chill',
   'orbit',
   'spend',
+  'elbow',
   'frags',
   'throw',
   'stack',
