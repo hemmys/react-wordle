@@ -12,7 +12,6 @@ export const WORDS = [
   'rapid',
   'drive',
   'swing',
-  'elbow',
   'ropes',
   'image',
   'decay',
