@@ -288,5 +288,6 @@ export const WORDS = [
   'trips',
   'halls',
   'money',
-  'whiff'
+  'whiff',
+  'heals'
 ]
