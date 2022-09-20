@@ -287,5 +287,6 @@ export const WORDS = [
   'drone',
   'trips',
   'halls',
-  'money'
+  'money',
+  'whiff'
 ]
