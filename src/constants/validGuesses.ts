@@ -225,5 +225,6 @@ export const VALID_GUESSES = [
   'shift',
   'molly',
   'scope',
-  'whiff'
+  'whiff',
+  'heals'
 ]
