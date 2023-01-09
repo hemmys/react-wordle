@@ -81,6 +81,7 @@ export const WORDS = [
   'smurf',
   'speed',
   'flank',
+  'lotus',
   'rifle',
   'hands',
   'relay',
