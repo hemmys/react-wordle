@@ -205,7 +205,9 @@ export const VALID_GUESSES = [
   'store',
   'armor',
   'sides',
+  'pearl',
   'cross',
+  'dizzy',
   'curve',
   'night',
   'cloud',
@@ -228,5 +230,12 @@ export const VALID_GUESSES = [
   'whiff',
   'heals',
   'titty',
-  'lotus'
+  'lotus',
+  'ronin',
+  'drops',
+  'packs',
+  'gaias',
+  'cobra',
+  'tilde',
+  'gekko'
 ]
