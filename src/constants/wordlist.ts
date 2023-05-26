@@ -121,6 +121,7 @@ export const WORDS = [
   'cheap',
   'spicy',
   'shoot',
+  'gekko',
   'grief',
   'scale',
   'crack',
@@ -204,7 +205,9 @@ export const WORDS = [
   'store',
   'armor',
   'sides',
+  'pearl',
   'cross',
+  'dizzy',
   'curve',
   'night',
   'cloud',
@@ -267,6 +270,7 @@ export const WORDS = [
   'event',
   'found',
   'blade',
+  'tilde',
   'start',
   'grind',
   'swift',
@@ -291,5 +295,10 @@ export const WORDS = [
   'money',
   'whiff',
   'heals',
-  'titty'
+  'titty',
+  'ronin',
+  'drops',
+  'packs',
+  'gaias',
+  'cobra'
 ]
