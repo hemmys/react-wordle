@@ -277,8 +277,10 @@ export const WORDS = [
   'japan',
   'shots',
   'trust',
+  'tides',
   'trail',
   'death',
+  'india',
   'smoke',
   'haven',
   'tiles',
@@ -300,5 +302,6 @@ export const WORDS = [
   'drops',
   'packs',
   'gaias',
-  'cobra'
+  'cobra',
+  'waves'
 ]
