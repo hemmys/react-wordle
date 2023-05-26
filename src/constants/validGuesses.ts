@@ -237,5 +237,8 @@ export const VALID_GUESSES = [
   'gaias',
   'cobra',
   'tilde',
-  'gekko'
+  'gekko',
+  'india',
+  'waves',
+  'tides'
 ]
