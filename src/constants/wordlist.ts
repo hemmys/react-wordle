@@ -303,5 +303,15 @@ export const WORDS = [
   'packs',
   'gaias',
   'cobra',
-  'waves'
+  'waves',
+  'fixer',
+  'lilac',
+  'arena',
+  'ninja',
+  'swirl',
+  'slash',
+  'bound',
+  'sword',
+  'kunai',
+  'sonic'
 ]
