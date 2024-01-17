@@ -240,5 +240,15 @@ export const VALID_GUESSES = [
   'gekko',
   'india',
   'waves',
-  'tides'
+  'tides',
+  'fixer',
+  'lilac',
+  'arena',
+  'ninja',
+  'swirl',
+  'slash',
+  'bound',
+  'sword',
+  'kunai',
+  'sonic'
 ]
