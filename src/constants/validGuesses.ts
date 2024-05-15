@@ -250,5 +250,8 @@ export const VALID_GUESSES = [
   'bound',
   'sword',
   'kunai',
-  'sonic'
+  'sonic',
+  'mound',
+  'scout',
+  'cubes'
 ]
