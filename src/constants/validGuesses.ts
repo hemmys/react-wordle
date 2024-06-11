@@ -171,7 +171,7 @@ export const VALID_GUESSES = [
   'torch',
   'audio',
   'split',
-  'clown'
+  'clown',
   'above',
   'slide',
   'stars',
