@@ -1,5 +1,6 @@
 export const VALID_GUESSES = [
-'clear',
+  'charm',
+  'clear',
   'party',
   'crate',
   'agent',
@@ -264,6 +265,7 @@ export const VALID_GUESSES = [
   'heals',
   'titty',
   'lotus',
+  'slurp',
   'comet',
   'ronin',
   'drops',
@@ -278,6 +280,7 @@ export const VALID_GUESSES = [
   'india',
   'curse',
   'waves',
+  'thorn',
   'tides',
   'fixer',
   'lilac',
@@ -290,6 +293,7 @@ export const VALID_GUESSES = [
   'kunai',
   'sonic',
   'mound',
+  'apple',
   'scout',
   'teach',
   'order',
@@ -300,4 +304,7 @@ export const VALID_GUESSES = [
   'ultra',
   'orion',
   'abyss',
+  'wings',
+  'bling',
+  'hawko'
 ]
