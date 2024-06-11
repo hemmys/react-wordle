@@ -1,4 +1,5 @@
 export const WORDS = [
+  'charm',
   'clear',
   'party',
   'crate',
@@ -264,6 +265,7 @@ export const WORDS = [
   'heals',
   'titty',
   'lotus',
+  'slurp',
   'comet',
   'ronin',
   'drops',
@@ -278,6 +280,7 @@ export const WORDS = [
   'india',
   'curse',
   'waves',
+  'thorn',
   'tides',
   'fixer',
   'lilac',
@@ -290,6 +293,7 @@ export const WORDS = [
   'kunai',
   'sonic',
   'mound',
+  'apple',
   'scout',
   'teach',
   'order',
@@ -300,4 +304,7 @@ export const WORDS = [
   'ultra',
   'orion',
   'abyss',
+  'wings',
+  'bling',
+  'hawko'
 ]
