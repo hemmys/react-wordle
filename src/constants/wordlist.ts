@@ -27,7 +27,6 @@ export const WORDS = [
   'power',
   'match',
   'aggro',
-  'recal',
   'timer',
   'toxin',
   'count',
