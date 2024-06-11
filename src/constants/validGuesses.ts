@@ -14,6 +14,7 @@ export const VALID_GUESSES = [
   'toxic',
   'shade',
   'rapid',
+  'regen',
   'drive',
   'swing',
   'ropes',
