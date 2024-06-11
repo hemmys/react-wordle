@@ -14,7 +14,6 @@ export const VALID_GUESSES = [
   'toxic',
   'shade',
   'rapid',
-  'regen',
   'drive',
   'swing',
   'ropes',
@@ -253,5 +252,7 @@ export const VALID_GUESSES = [
   'sonic',
   'mound',
   'scout',
-  'cubes'
+  'cubes',
+  'clove',
+  'regen',
 ]
