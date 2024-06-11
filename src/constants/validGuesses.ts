@@ -28,7 +28,6 @@ export const VALID_GUESSES = [
   'power',
   'match',
   'aggro',
-  'recal',
   'timer',
   'toxin',
   'count',
