@@ -171,7 +171,7 @@ export const WORDS = [
   'torch',
   'audio',
   'split',
-  'clown'
+  'clown',
   'above',
   'slide',
   'stars',
