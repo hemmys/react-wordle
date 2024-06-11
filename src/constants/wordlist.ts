@@ -127,6 +127,7 @@ export const WORDS = [
   'grief',
   'scale',
   'crack',
+  'realm',
   'light',
   'force',
   'tiger',
@@ -315,5 +316,6 @@ export const WORDS = [
   'bound',
   'sword',
   'kunai',
-  'sonic'
+  'sonic',
+  'clove'
 ]
